@@ -1,0 +1,24 @@
+*{
+    margin: auto;
+    padding: auto;
+    box-sizing: border-box;
+}
+.login{
+    background-color: #1E1E1E;
+    /* height: 700px; */
+    min-height: 100vh;
+    padding-top: 50px;
+    min-width: 300px;
+}
+#logoAuthen{
+    width: 100%;
+    object-fit: cover;
+    height: 500px;
+}
+.bntLogo img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius:"9px";
+   
+}
